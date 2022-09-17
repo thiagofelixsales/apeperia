@@ -5,7 +5,7 @@ Projeto acadêmico focado em HTML e CSS
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Apeperia**
-| :label: Tecnologias |html e css (tecnologias utilizadas)
+| :label: Tecnologias |html, css
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
