@@ -10,5 +10,6 @@ Projeto acadêmico focado em HTML e CSS
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-https://imgur.com/zzNKQDY#vitrinedev
+https://imgur.com/zzNKQDY
+#vitrinedev
 
